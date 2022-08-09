@@ -3,6 +3,7 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+    font-family: Helvetica;
 }
 
 .header {
@@ -66,4 +67,15 @@ a {
 .first-section img {
     height: auto;
     width: 520px;
+}
+
+.first-section button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    width: 120px;
+    font-size: 15px;
+    font-weight: bold;
 }
