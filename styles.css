@@ -150,14 +150,19 @@ a {
     align-items: center;
     padding: 40px;
     flex: 1;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .call-to-action {
     background-color: #3882F6;
-    border-radius: 5px;
+    border-radius: 9px;
     display: flex;
     align-items: center;
     padding: 20px;
+    height: 105px;
+    padding-left: 80px;
+    padding-right: 80px;
 }
 
 .signup {
@@ -172,5 +177,14 @@ a {
     background-color: transparent;
     color: white;
     border: 2px solid white;
+}
 
+.text h3 {
+    margin: 0;
+    font-size: 25px;
+    color: white;
+}
+
+.text {
+    padding: 50px;
 }
