@@ -143,3 +143,34 @@ a {
     font-size: 25px;
     margin-left: auto;
 }
+
+.fourth-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    flex: 1;
+}
+
+.call-to-action {
+    background-color: #3882F6;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+.signup {
+    margin: 40px;
+}
+
+.signup button {
+    font-size: 18px;
+    padding: 10px;
+    border-radius: .5em;
+    width: 130px;
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+
+}
