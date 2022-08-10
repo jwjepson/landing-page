@@ -188,3 +188,13 @@ a {
 .text {
     padding: 50px;
 }
+
+.footer {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90px;
+    color:#E5E7EB;
+    font-size: 17px;
+}
