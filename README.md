@@ -1,9 +1,9 @@
 # Landing-page
 
 ## Table of Contents
-- [Project Description](https://github.com/jwjepson/landing-page/edit/main/README.md#project-description)
-- [What I've learned](https://github.com/jwjepson/landing-page/edit/main/README.md#what-ive-learned)
-- [Final thoughts](https://github.com/jwjepson/landing-page/edit/main/README.md#my-thoughts)
+- [Project Description](https://github.com/jwjepson/landing-page#project-description)
+- [What I've learned](https://github.com/jwjepson/landing-page#what-ive-learned)
+- [Final thoughts](https://github.com/jwjepson/landing-page#final-thoughts)
 
 
 
