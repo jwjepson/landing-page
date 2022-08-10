@@ -65,6 +65,11 @@ a {
     margin-top: 20px;
 }
 
+.item .subtext {
+    color: #1F2937;
+    margin: 0;
+}
+
 .first-section img {
     height: auto;
     width: 520px;
@@ -82,11 +87,36 @@ a {
 }
 
 .second-section {
-    font-size: 36px;
+    font-size: 30px;
     font-weight: 900;
     padding: 30px;
     display: flex;
     flex-direction: column;
     align-items: center;
     color: #1F2937;
+}
+
+.image {
+    height: 150px;
+    width: 150px;
+    border: 4px solid #3882F6;
+    border-radius: 1rem;
+    margin: 40px;
+    margin-bottom: 15px;
+}
+
+.images {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 30px;
+    flex: 1;
+    gap: 70px;
+}
+
+.item {
+    width: 170px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
 }
